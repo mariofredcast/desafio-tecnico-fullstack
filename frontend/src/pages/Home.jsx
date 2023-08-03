@@ -5,7 +5,7 @@ import axios from "axios";
 import "./Home.css";
 
 
-const baseURL = "http://localhost:3000/api/v1/shopper/validation";
+const baseURL = "https://real-tan-cape-buffalo-belt.cyclic.app/api/v1/shopper/validation";
 
 function Home() {
 

@@ -2,7 +2,7 @@ import {useLocation, useNavigate} from "react-router-dom";
 import "./UpdateProductInfosPage.css";
 import axios from "axios";
 
-const baseURL = "http://localhost:3000/api/v1/shopper/update";
+const baseURL = "https://real-tan-cape-buffalo-belt.cyclic.app/api/v1/shopper/update";
 
 function UpdateProductInfosPage(){
 
